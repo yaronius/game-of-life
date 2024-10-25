@@ -1,6 +1,6 @@
 module gameoflife
 
-go 1.21.7
+go 1.21
 
 require github.com/gdamore/tcell v1.4.0
 
